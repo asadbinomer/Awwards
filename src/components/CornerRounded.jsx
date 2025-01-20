@@ -1,6 +1,6 @@
 import React from "react";
 
-function RoundedCorner() {
+function CornerRounded() {
   return (
     <>
       <svg
@@ -24,4 +24,4 @@ function RoundedCorner() {
   );
 }
 
-export default RoundedCorner;
+export default CornerRounded;
